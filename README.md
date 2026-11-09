@@ -25,7 +25,7 @@ Power BI dashboard analysing Netflix content, production peaks and release trend
 Power BI Desktop, Azure Maps visual
 
 ## Files
-- [Dashboard (PDF)](Netflix Dashboard.pdf)
+- (https://github.com/VishalC-Analyst/Netflix-Dashboard-PowerBI/blob/main/Netflix%20Dashboard.pdf)
 
 ## Author
 Vishal C | Business Analyst | Microsoft Certified: Power BI Data Analyst Associate
